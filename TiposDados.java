@@ -14,5 +14,16 @@ public class TiposDados {
 		String nome = "Stephany";
 		char sexo = 'f';
 		boolean maiorIdade = true;
+		
+		System.out.println("Número: " + numero);
+		System.out.println("Valor: " + valor);
+		System.out.println("Valor 1: " + valor1);
+		System.out.println("Número 01: " + numero01);
+		System.out.println("Número 02: " + numero02);
+		System.out.println("Número 03: " + numero03);
+		System.out.println("Valor 02: " + valor02);
+		System.out.println("Nome: " + nome);
+		System.out.println("Sexo: " + sexo);
+		System.out.println("Maior idade: " + maiorIdade);
 	}
 }
